@@ -29,7 +29,7 @@ status-website:
   introMessage: Status Page
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Sophie
       href: https://carlostkd.ch/sophie
 
