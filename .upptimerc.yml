@@ -14,7 +14,7 @@ sites:
   - name: AI
     url: https://carlostkd.ch/AI
   - name: Mobile
-    url: $mobile
+    url: $MOBILE
   - name: Teams
     url: https://carlostkd.ch/mail
 
