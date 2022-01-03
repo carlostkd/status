@@ -21,7 +21,7 @@ sites:
 status-website:
   
   baseUrl: /status
-  logoUrl: $LOGO
+  logoUrl: https://raw.githubusercontent.com/carlostkd/status/master/assets/ai-favicon.png
   name: Sophie AI Status
   introTitle: "**Sophie Status** is the uptime monitor and status page."
   introMessage: Status Page
