@@ -38,7 +38,8 @@ status-website:
       href: https://carlostkd.ch/sophie
   user-agent: Sophie Powered AI
   i18n: 
-      footer: test
+    footer: test
+    
   
 
 
