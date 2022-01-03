@@ -1,6 +1,5 @@
 # Sophie Powered AI Monitor
-status-website:
-  theme: dark
+s
 owner: carlostkd # Sophie AI is powered by carlostkd
 repo: status 
 
@@ -25,7 +24,8 @@ sites:
     port: $DNS_PORT
 
 status-website:
-  
+
+  theme: dark
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/carlostkd/status/master/assets/ai-favicon.png
   name: Sophie AI Status
@@ -36,6 +36,7 @@ status-website:
       href: /status
     - title: Sophie
       href: https://carlostkd.ch/sophie
+  user-agent: Sophie Powered AI
 
 
 
