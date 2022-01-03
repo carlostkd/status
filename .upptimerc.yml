@@ -1,5 +1,5 @@
 # Sophie Powered AI Monitor
-s
+
 owner: carlostkd # Sophie AI is powered by carlostkd
 repo: status 
 
@@ -36,6 +36,7 @@ status-website:
       href: /status
     - title: Sophie
       href: https://carlostkd.ch/sophie
+  user-agent: Sophie Powered AI
   
 
 
