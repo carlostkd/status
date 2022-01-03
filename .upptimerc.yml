@@ -37,6 +37,8 @@ status-website:
     - title: Sophie
       href: https://carlostkd.ch/sophie
   user-agent: Sophie Powered AI
+  i18n:
+  footer: | Sophie Status Page is made with ❤️ | @carlostkd 2021 
   
 
 
