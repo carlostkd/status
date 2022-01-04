@@ -31,6 +31,5 @@
 
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Carlostkd](https://carlostkd.ch)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
