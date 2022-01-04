@@ -27,7 +27,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://carlostkd.ch)
+[**Visit our status website →**](https://carlostkd.github.io/status)
 
 ## 📄 License
 
