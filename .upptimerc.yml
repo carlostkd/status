@@ -25,7 +25,10 @@ sites:
   - name: DNS
     check: "tcp-ping"
     url: $DNS
-    port: $DNS_PORT
+    port: $DNS_PORT  
+  - name: test
+    url: https://nowaytest.com/
+  
 
 status-website:
 
@@ -40,9 +43,7 @@ status-website:
       href: /status
     - title: Sophie
       href: https://carlostkd.ch/sophie
-  user-agent: Sophie Powered AI
-  i18n: 
-    footer: test
+  
     
   
 
