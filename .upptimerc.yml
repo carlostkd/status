@@ -8,7 +8,7 @@ i18n:
 
 
 sites:
-  - name: carlostk
+  - name: carlostkd
     url: $SOPHIE
   - name: Recognizing People 
     url: $RECOGNIZING_PEOPLE
