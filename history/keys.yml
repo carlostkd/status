@@ -1,7 +1,7 @@
 url: $KEYS
-status: down
-code: 503
-responseTime: 196
-lastUpdated: 2022-05-24T14:16:26.142Z
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2022-05-24T14:35:14.611Z
 startTime: Sun Jan 02 2022 02:12:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
