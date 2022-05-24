@@ -22,11 +22,7 @@ sites:
     url: $MOBILE
   - name: Teams
     url: $TEAMS
-  - name: DNS
-    check: "tcp-ping"
-    url: $DNS
-    port: $DNS_PORT  
-
+  
   
 
 status-website:
