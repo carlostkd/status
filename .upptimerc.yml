@@ -41,7 +41,7 @@ status-website:
     - title: Status
       href: /status
     - title: Sophie
-      href: https://carlostkd.ch/sophie
+      href: https://carlostkd.ch
   user-agent: $AGENT
   
     
