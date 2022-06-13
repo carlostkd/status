@@ -4,10 +4,10 @@
     "url": "$SOPHIE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "carlostkd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
@@ -15,7 +15,9 @@
     "timeWeek": 799,
     "timeMonth": 819,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 2
+    }
   },
   {
     "name": "Recognizing People",
@@ -42,10 +44,10 @@
     "url": "$AI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sophie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
@@ -53,18 +55,20 @@
     "timeWeek": 236,
     "timeMonth": 248,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 1
+    }
   },
   {
     "name": "Keys",
     "url": "$KEYS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "keys",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 216,
     "timeDay": 318,
@@ -72,6 +76,7 @@
     "timeMonth": 234,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2022-06-13": 1,
       "2022-05-24": 19
     }
   },
@@ -80,9 +85,9 @@
     "url": "$STORAGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +96,9 @@
     "timeWeek": 121,
     "timeMonth": 127,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "Mobile",
